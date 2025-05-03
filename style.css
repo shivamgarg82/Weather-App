@@ -1,0 +1,50 @@
+body {
+  background-color: #226ba3;
+}
+.a {
+  border: 2px solid black;
+  height: 600px;
+  width: 600px;
+  position: relative;
+  top: 10%;
+  left: 25%;
+  background-color: cyan;
+  border-radius: 15%;
+  box-shadow: 10px 7px;
+}
+header {
+  position: absolute;
+  top: 10%;
+  left: 15%;
+}
+input {
+  font-size: 110%;
+  border-radius: 20%;
+  background-color: rgb(141, 197, 243);
+  padding-left: 30%;
+  width: 300px;
+  height: 50px;
+}
+.content {
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  font-size: 140%;
+}
+h3 {
+  text-transform: uppercase;
+}
+#h4 {
+  text-transform: uppercase;
+}
+img {
+  position: absolute;
+  top: 110%;
+}
+footer {
+  position: absolute;
+  top: 100%;
+  left: 3%;
+  height: 100px;
+  width: 100%;
+}
