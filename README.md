@@ -28,6 +28,7 @@ npm install
 npm start
 
 🔧 Project Structure
+
 Weather-App/
 ├── assets/
 │   ├── css/            # Stylesheets
@@ -38,6 +39,7 @@ Weather-App/
 ├── manifest.json       # PWA configuration
 ├── LICENSE             # MIT License
 └── README.md           # This file
+
 🌐 API Reference
 Uses OpenWeatherMap API:
 
