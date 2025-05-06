@@ -5,6 +5,7 @@
 
 A real-time weather forecasting application with location detection and 5-day forecast.
 
+![Screenshot 2025-05-06 153047](https://github.com/user-attachments/assets/4cc3170c-93f0-4c20-9f16-039ed9da53a8)
 
 
 ## 🌟 Key Features
@@ -68,6 +69,6 @@ git push origin feature/your-feature
 📜 License
 MIT © Shivam Garg
 
-🔗 Live Demo: https://calculatage1.netlify.app/
+🔗 Live Demo: https://appweathe1.netlify.app/
 🐞 Report Issues: GitHub Issues
 💡 Feature Requests: Open an issue with the "enhancement" label
